@@ -57,7 +57,6 @@
   min-height: 50rem;
 }
 
-
 @media screen and (max-width: 800px) {
   .section1 {
     flex-direction: column;
